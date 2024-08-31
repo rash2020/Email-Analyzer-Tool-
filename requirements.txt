@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.2
+email-validator==2.1.2
+fpdf==1.7.2
+python-whois==0.9.4  
